@@ -76,6 +76,6 @@ Informative Portfolio
 A personal portfolio showcasing my skills, achievements, and design capabilities.
 
 Community Website
-Currently under development — coming soon.
+CampusNest  — coming soon.
 
 
